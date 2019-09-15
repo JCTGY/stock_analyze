@@ -4,7 +4,7 @@ Exersice prctice from [In 12 minutes: Stocks Analysis with Pandas and Scikit-Lea
 
 Four different models result for predicting the stock in [StocksPriceModel.py](https://github.com/JCTGY/stock_analyze/blob/master/StocksPriceModel.py)
 
-uncomment each result to show deffernt plot result
+Uncomment each result to show deffernt plot result
 ```
 # Linear Regresseion result
 #forecast_set = clfreg.predict(X_lately)
